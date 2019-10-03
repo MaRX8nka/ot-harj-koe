@@ -1,2 +1,4 @@
 Fullstack kurssitehtävässä pitäisi ajaa kotihakemiston kurssilistaus ja tallettaa tähän tiedostoon. Kotikoneella
 näitä tehdessä kirjasin tämän kommentin tähän.
+
+Lisätekstiä epäsynkronointiharjoitusta varten.
