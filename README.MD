@@ -1,4 +1,4 @@
-#Fullstack ohjelmointi# 
+# Fullstack ohjelmointi # 
 **Tehtävät harjoitukset**
 **Viikko 1** 
 [gitlog.txt](laskarit/gitlog.txt)
