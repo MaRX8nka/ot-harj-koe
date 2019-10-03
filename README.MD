@@ -9,6 +9,6 @@
 [komentorivi.txt](laskarit/komentorivi.txt)
 
 
-
+lisätään tekstiä local/remote synkkaysvirheeksi
 
 
